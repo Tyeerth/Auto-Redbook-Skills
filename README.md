@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 📕 Auto-Redbook-Skills（已重构版）
 
 > 自动撰写小红书笔记、生成多主题卡片、可选自动发布的 Skills  
@@ -39,7 +40,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/Tyeerth/Auto-Redbook-Skills.git
+git clone https://github.com/comeonzhj/Auto-Redbook-Skills.git
 cd Auto-Redbook-Skills
 ```
 
@@ -213,3 +214,6 @@ Auto-Redbook-Skills/
 ## 📄 License
 
 MIT License © 2026
+=======
+# Auto-Redbook-Skills
+>>>>>>> ce466a038035dd43ddf27595ef2c7ed9ef23d66d
